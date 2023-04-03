@@ -13,28 +13,32 @@
 Regular users can open and close their own issues, but only the administrators can do project-related things like add labels, merge changes, set milestones, and kick trolls. The current LegacyRobots admin team consists of:
 
 <table align="center">
-<tr><td>LEGACY ROBOTS 🇧🇷</td></tr>
+<tr>
+<td align="center">
+LEGACY ROBOTS 🇧🇷
+</td>
+</tr>
 <tr><td>
 
  🇧🇷  **Thássio Silva**
        [@thxssio](https://github.com/thxssio)
        [<kbd>  INSTAGRAM 📲  </kbd>](https://instagram.com/thxssio)
 
+
  🇧🇷  **Daniel Junior**
        [@djuniordev](https://github.com/djuniordev)
    [<kbd>  INSTAGRAM 📲    </kbd>](https://instagram.com/eujuniormelo_)
+
 
  🇧🇷  **RAI**
        [@RAI](https://github.com/)
        [<kbd>  INSTAGRAM 📲    </kbd>](https://instagram.com/thxssio)
 
+
  🇧🇷  **Alejandro**
        [@alejandro](https://github.com/)
    [<kbd>  INSTAGRAM 📲    </kbd>](https://instagram.com/thxssio)
-
-</td><td>
-
-
+   
 </td></tr>
 </table>
 
