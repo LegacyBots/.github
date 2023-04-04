@@ -1,6 +1,6 @@
 <h1 align="center">Legacy Robots
 </h1>
-<p align="center"><img src="https://github.com/LegacyBots/LegacyBots/blob/master/Logo/322459394_1241569350069213_8432725836576560651_n-removebg-preview.png" height="250" alt="Legacy Robots logo" /></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/129478195?s=200&v=4" height="250" alt="Legacy Robots logo" /></p>
 
 <p align="center">Legacy Robots Organization</p>
 
