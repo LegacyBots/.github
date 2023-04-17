@@ -39,6 +39,10 @@ LEGACY ROBOTS 🇧🇷
        [@alejandro](https://github.com/)
    [<kbd>  INSTAGRAM 📲    </kbd>](https://instagram.com/thxssio)
    
+ 🇧🇷  **Gabriel Leite**
+       [@Gabriel](https://github.com/)
+   [<kbd>  INSTAGRAM 📲    </kbd>](https://instagram.com/gabriel__jv__)
+   
 </td></tr>
 </table>
 
