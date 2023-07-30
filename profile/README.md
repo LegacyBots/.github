@@ -30,18 +30,6 @@ LEGACY ROBOTS 🇧🇷
    [<kbd>  INSTAGRAM 📲    </kbd>](https://instagram.com/eujuniormelo_)
 
 
- 🇧🇷  **RAI**
-       [@RAI](https://github.com/)
-       [<kbd>  INSTAGRAM 📲    </kbd>](https://instagram.com/thxssio)
-
-
- 🇧🇷  **Alejandro**
-       [@alejandro](https://github.com/)
-   [<kbd>  INSTAGRAM 📲    </kbd>](https://instagram.com/thxssio)
-   
- 🇧🇷  **Gabriel Leite**
-       [@Gabriel](https://github.com/)
-   [<kbd>  INSTAGRAM 📲    </kbd>](https://instagram.com/gabriel__jv__)
    
 </td></tr>
 </table>
